@@ -8,15 +8,12 @@ ali_fazeli = {
         "Bash",
     ],
     "Technologies": {
-        "Backend": ["Flask", "Django", "Sanic", "SQLAlchemy", "Express"],
-        "Frontend": ["Node.js", "React.js", "Redux", "Storybook", "Jest"],
-        "Mobile": ["React Native"],
-        "Database": ["Hadoop","MySQL", "NoSQL", "MongoDB", "PostgreSQL", "Oracle"],
-        "Serverless": ["AWS Lambda", "Heroku"],
-        "Dev Ops": ["AWS", "GitHub", "GitLab", "Docker", "Terraform"],
+        "Deep Learning Frameworks": ["TensorFlow 2", "MindSpore"],
+        "Database": ["Hadoop","MySQL", "MongoDB", "PostgreSQL", "Redis" "Oracle"],
+        "Dev Ops": ["Kubernetes","Docker","AWS", "GitHub", "GitLab", "Ansible"],
         "Operating Systems": ["macOS", "Linux (PopOS!)", "Windows"],
         "Design": ["Figma"],
-        "Misc": ["Firebase"],
+        "Misc": ["Smart Git", "GHDB"],
     },
     "Stats": {
         "Account Age": "3 years",
@@ -54,6 +51,6 @@ ali_fazeli = {
 
 <!-- Links -->
 
-[github stats card]: https://github-readme-stats.vercel.app/api/?username=alifzl
-[github trophies]: https://github-profile-trophy.vercel.app/?username=alifzl&column=4&margin-w=18&margin-h=15
-[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=alifzl&layout=compact
+[github stats card]: https://github-readme-stats.vercel.app/api/?username=alifzl&theme=merko
+[github trophies]: https://github-profile-trophy.vercel.app/?username=alifzl&column=4&margin-w=18&margin-h=15&theme=merko
+[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=alifzl&layout=compact&theme=merko
