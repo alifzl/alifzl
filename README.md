@@ -9,8 +9,8 @@ ali_fazeli = {
     ],
     "Technologies": {
         "Deep Learning Frameworks": ["TensorFlow 2", "MindSpore"],
-        "Database": ["HBase", "Oracle", "MongoDB", "MySQL", "PostgreSQL", "Redis",],
-        "Dev Ops": ["Kubernetes","Docker","AWS", "GitHub", "GitLab",  "TeamCity" "Ansible"],
+        "Database": ["HBase", "Oracle", "MongoDB", "MySQL", "PostgreSQL", "Redis"],
+        "Dev Ops": ["Kubernetes","Docker","AWS", "GitHub", "GitLab",  "TeamCity", "Ansible"],
         "ML Ops": ["Polyaxon", "Apache Airflow"],
         "Operating Systems": ["macOS", "Linux (PopOS!)", "Windows"],
         "Design": ["Figma"],
