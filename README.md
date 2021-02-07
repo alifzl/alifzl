@@ -9,20 +9,21 @@ ali_fazeli = {
     ],
     "Technologies": {
         "Deep Learning Frameworks": ["TensorFlow 2", "MindSpore"],
-        "Database": ["Hadoop","MySQL", "MongoDB", "PostgreSQL", "Redis" "Oracle"],
-        "Dev Ops": ["Kubernetes","Docker","AWS", "GitHub", "GitLab", "Ansible"],
+        "Database": ["HBase", "Oracle", "MongoDB", "MySQL", "PostgreSQL", "Redis",],
+        "Dev Ops": ["Kubernetes","Docker","AWS", "GitHub", "GitLab",  "TeamCity" "Ansible"],
+        "ML Ops": ["Polyaxon", "Apache Airflow"]
         "Operating Systems": ["macOS", "Linux (PopOS!)", "Windows"],
         "Design": ["Figma"],
         "Misc": ["Smart Git", "GHDB"],
     },
     "Stats": {
-        "Account Age": "3 years",
-        "Pushed": "1725 commits",
-        "Opened": "118 issues",
-        "Submitted": "128 pull requests",
-        "Received": "257 stars",
-        "Own": "44 repositories",
-        "Contributed to": "21 public repositories",
+        "Account Age": "7 years",
+        "Pushed": "721 commits",
+        "Opened": "23 issues",
+        "Submitted": "41 pull requests",
+        "Received": "50 stars",
+        "Own": "38 repositories",
+        "Contributed to": "7 public repositories",
     }
 }
 
