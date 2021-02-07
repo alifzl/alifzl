@@ -1,7 +1,7 @@
 ```python
 ali_fazeli = {
     "Pronouns": ["He", "Him", "His"],
-    "Ask Me About": ["Deep Learning", "Data Analytics","Spark"],
+    "Ask Me About": ["Deep Learning", "Data Analytics","Spark", "Python", "PopOS!"],
     "Languages": [
         "Python",
         "Scala",
@@ -11,7 +11,7 @@ ali_fazeli = {
         "Deep Learning Frameworks": ["TensorFlow 2", "MindSpore"],
         "Database": ["HBase", "Oracle", "MongoDB", "MySQL", "PostgreSQL", "Redis",],
         "Dev Ops": ["Kubernetes","Docker","AWS", "GitHub", "GitLab",  "TeamCity" "Ansible"],
-        "ML Ops": ["Polyaxon", "Apache Airflow"]
+        "ML Ops": ["Polyaxon", "Apache Airflow"],
         "Operating Systems": ["macOS", "Linux (PopOS!)", "Windows"],
         "Design": ["Figma"],
         "Misc": ["Smart Git", "GHDB"],
