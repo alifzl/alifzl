@@ -4,11 +4,10 @@ ali_fazeli = {
     "Ask Me About": ["Deep Learning", "Big Data Analytics","Spark", "Python"],
     "Languages": [
         "Python",
-        "golang",
-        "Bash",
+        "golang"
     ],
     "Technologies": {
-        "Deep Learning Frameworks": ["TF2", "torch", "MindSpore"],
+        "Deep Learning Frameworks": ["torch","keras", "MindSpore"],
         "Database": ["HBase", "Oracle", "MongoDB", "MySQL", "PostgreSQL", "Redis"],
         "Dev Ops": ["Kubernetes","Docker"],
         "ML Ops": ["Polyaxon", "Apache Airflow", "Prefect"],
