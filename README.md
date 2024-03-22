@@ -1,13 +1,13 @@
 ```python
 ali_fazeli = {
     "Pronouns": ["He", "Him", "His"],
-    "Ask Me About": ["Deep Learning", "Big Data Analytics","Spark", "Python"],
+    "Ask Me About": ["Deep Learning", "Big Data Analytics", "Python"],
     "Languages": [
         "Python",
         "golang"
     ],
     "Technologies": {
-        "Deep Learning Frameworks": ["torch","keras", "MindSpore"],
+        "Deep Learning Frameworks": ["keras", "MindSpore"],
         "Database": ["HBase", "Oracle", "MongoDB", "MySQL", "PostgreSQL", "Redis"],
         "Dev Ops": ["Kubernetes","Docker"],
         "ML Ops": ["Polyaxon", "Apache Airflow", "Prefect"],
@@ -17,26 +17,6 @@ ali_fazeli = {
 
 ```
 
-<details>
-  <summary>GitHub Stats</summary>
-
-[![GitHub Stats Card]](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<details>
-  <summary>GitHub Trophies</summary>
-
-[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
-
-</details>
-
-<details>
-  <summary>GitHub Top Langs</summary>
-
-[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 <!-- Links -->
 
